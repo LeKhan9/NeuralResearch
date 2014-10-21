@@ -1,5 +1,7 @@
-NeuralResearch- Summer 2014 Research (June 9th - August 9th)
+NeuralResearch- Summer 2014 Research 
 ==============
+
+(June 9th - August 9th)
 
 "Neural Network Implemented on a Wheeled Robot using Backpropagation and Arduino Chips Emulated as Nodes"
 
