@@ -21,7 +21,7 @@ import java.util.StringTokenizer;
 
 
 
-public class MLP2D
+public class MultiLayerPerceptron
 {
 	public static void main(String[] args) throws FileNotFoundException, IOException 
 	{
@@ -194,8 +194,8 @@ public class MLP2D
 					{
 						per[g6].updateWeightOut();
 					}	
-            // Equation for the calculation of the delta gradient for the outer hidden layer to be propagated backwards
-            // Delta error along with normal error is used to change weights and update them
+            			    // Equation for the calculation of the delta gradient for the outer hidden layer to be propagated backwards
+            			    // Delta error along with normal error is used to change weights and update them
 				    f= (hid3.deltaHid1(hid3.getOutput(), v))*(hid3.getWeight(1)) + (hid4.deltaHid2(hid4.getOutput(),g))*(hid4.getWeight(1));
 				    j= (hid3.deltaHid1(hid3.getOutput(), v))*(hid3.getWeight(2)) + (hid4.deltaHid2(hid4.getOutput(),g))*(hid4.getWeight(2));
 				    
