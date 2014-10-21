@@ -3,7 +3,7 @@ NeuralResearch- Summer 2014 Research (June 9th - August 9th)
 
 "Neural Network Implemented on a Wheeled Robot using Backpropagation and Arduino Chips Emulated as Nodes"
 
-The two classes- Perceptron and MultiLayerPerceptron- in this Repository are the basics of a simulated Neural Network in machine learning and computational intelligence theory. 
+The two classes- Perceptron and MultiLayerPerceptron- in this Repository are the basics of a simulated Neural Network in machine learning and computational intelligence theory. A sample input file is given to help run the training sets- the inputs are separated by one space and the output is separated from a line of inputs by 2 spaces. **Be sure to change the file path in the MultiLayerPerceptron tester for the input file --should be at the top of the code--when running the program. This can be retrieved by a simple absolute file path method. 
 
 Where I am going with this is to be able to implement a fully functional network through hardware- learning will also happen live and not offline. 
 ______________________________________________________________________________________
