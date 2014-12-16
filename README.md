@@ -1,7 +1,11 @@
-NeuralResearch- Summer 2014 Research 
+NeuralResearch-  Research and Personal Project
 ==============
+Extensive information on my personal project can be found here:
 
-(June 9th - August 9th)         // Arduino code is still being finalized and has not yet been added to Git //
+https://sites.google.com/a/conncoll.edu/mkhan/
+
+
+// Arduino code is still being finalized and has not yet been added to Git //
 
 "Neural Network Implemented on a Wheeled Robot using Backpropagation and Arduino Chips Emulated as Nodes"
 
