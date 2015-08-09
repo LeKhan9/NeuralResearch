@@ -5,7 +5,6 @@ Extensive information on my personal project can be found here:
 https://sites.google.com/a/conncoll.edu/mkhan/
 
 
-// Arduino code is still being finalized and has not yet been added to Git //
 
 ReadMe.txt
 
